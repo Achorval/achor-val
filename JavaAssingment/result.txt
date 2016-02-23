@@ -1,0 +1,4 @@
+
+javaAssignment with buffer      ==   5819
+
+generatedNumber without buffer  ==   
